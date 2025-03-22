@@ -1,18 +1,4 @@
-Grand Prix
-
-Date
-
-Winner
-
-Car
-
-Laps
-
-Time
-
-Australia
-
-16 Mar 2025
+Gr
 
  Norris
 
