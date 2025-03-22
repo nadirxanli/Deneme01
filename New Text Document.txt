@@ -1,0 +1,23 @@
+Grand Prix
+
+Date
+
+Winner
+
+Car
+
+Laps
+
+Time
+
+Australia
+
+16 Mar 2025
+
+ Norris
+
+McLaren Mercedes
+
+57
+
+1:42:06.304
